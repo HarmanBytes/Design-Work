@@ -37,7 +37,7 @@ Here you can explore my **UI/UX designs, thumbnails, banners, and logos**, along
 ### 🎬 Thumbnails (Anime)
 <p align="left"> 
   <img src="images/bleach%20thumb.jpg" alt="Bleach Thumb" width="300" style="border:2px solid #333; padding:2px;"/>  
-  <img src="images/gojo.png" alt="Gojo" width="3000" style="border:2px solid #333; padding:2px;"/>    
+  <img src="images/gojo.png" alt="Gojo" width="300" style="border:2px solid #333; padding:2px;"/>    
   <img src="images/luffy%20video%20thumbnail.jpg" alt="Luffy Video Thumbnail" width="300" style="border:2px solid #333; padding:2px;"/>  
   <img src="images/naruto%20thumb%20red.jpg" alt="Naruto Thumb Red" width="300" style="border:2px solid #333; padding:2px;"/>  
   <img src="images/trunks%20thumb.jpg" alt="Trunks Thumb" width="300" style="border:2px solid #333; padding:2px;"/>  
