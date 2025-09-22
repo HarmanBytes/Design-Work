@@ -29,21 +29,21 @@ Here you can explore my **UI/UX designs, thumbnails, banners, and logos**, along
   <img src="images/two%20sum%20thumb.png" alt="Two Sum Thumb PNG" width="300" style="border:2px solid #333; padding:2px;"/>  
   <img src="images/scraping%20thumb.png" alt="Scraping Thumb" width="300" style="border:2px solid #333; padding:2px;"/>  
   <img src="images/piling%20up%20thumb.png" alt="Piling Up Thumb" width="300" style="border:2px solid #333; padding:2px;"/>
-  <img src="images/lcs%20thumb.jpg" alt="LCS Thumb" width="250" style="border:2px solid #333; padding:2px;"/>
+  <img src="images/lcs%20thumb.jpg" alt="LCS Thumb" width="300" style="border:2px solid #333; padding:2px;"/>
 </p>
 
 ---
 
 ### 🎬 Thumbnails (Anime)
 <p align="left"> 
-  <img src="images/bleach%20thumb.jpg" alt="Bleach Thumb" width="250" style="border:2px solid #333; padding:2px;"/>  
-  <img src="images/gojo.png" alt="Gojo" width="250" style="border:2px solid #333; padding:2px;"/>    
-  <img src="images/luffy%20video%20thumbnail.jpg" alt="Luffy Video Thumbnail" width="250" style="border:2px solid #333; padding:2px;"/>  
-  <img src="images/naruto%20thumb%20red.jpg" alt="Naruto Thumb Red" width="250" style="border:2px solid #333; padding:2px;"/>  
-  <img src="images/trunks%20thumb.jpg" alt="Trunks Thumb" width="250" style="border:2px solid #333; padding:2px;"/>  
-  <img src="images/vegeta%20thumb%204.jpg" alt="Vegeta Thumb 4" width="250" style="border:2px solid #333; padding:2px;"/>
+  <img src="images/bleach%20thumb.jpg" alt="Bleach Thumb" width="300" style="border:2px solid #333; padding:2px;"/>  
+  <img src="images/gojo.png" alt="Gojo" width="3000" style="border:2px solid #333; padding:2px;"/>    
+  <img src="images/luffy%20video%20thumbnail.jpg" alt="Luffy Video Thumbnail" width="300" style="border:2px solid #333; padding:2px;"/>  
+  <img src="images/naruto%20thumb%20red.jpg" alt="Naruto Thumb Red" width="300" style="border:2px solid #333; padding:2px;"/>  
+  <img src="images/trunks%20thumb.jpg" alt="Trunks Thumb" width="300" style="border:2px solid #333; padding:2px;"/>  
+  <img src="images/vegeta%20thumb%204.jpg" alt="Vegeta Thumb 4" width="300" style="border:2px solid #333; padding:2px;"/>
   <br>
-  <img src="images/Black%20Goku%20Thumb.jpg" alt="Black Goku Thumb" width="250" style="border:2px solid #333; padding:2px;"/>   
+  <img src="images/Black%20Goku%20Thumb.jpg" alt="Black Goku Thumb" width="300" style="border:2px solid #333; padding:2px;"/>   
 </p>
 
 ---
