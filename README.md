@@ -8,7 +8,6 @@ Here you can explore my **UI/UX designs, thumbnails, banners, and logos**, along
 ## 📂 Projects & Designs
 
 ### 🖌️ UI/UX
-- **ITSVIBEE_UI_UX**
 <p align="left">
   <img src="images/UI_UX/Home.png" alt="Home" width="500" style="border:2px solid #333; padding:2px; margin:5px;"/>
   <img src="images/UI_UX/Store – 1.png" alt="Store 1" width="500" style="border:2px solid #333; padding:2px; margin:5px;"/>
